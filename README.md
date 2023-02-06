@@ -22,7 +22,6 @@ I also stream and record videos of my kid playing water polo [personal YouTube C
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
@@ -35,7 +34,6 @@ I also stream and record videos of my kid playing water polo [personal YouTube C
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 
