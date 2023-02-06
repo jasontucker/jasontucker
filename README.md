@@ -1,7 +1,8 @@
 ### Hi, I'm Jason Tucker
 
-You can find me on Mastodon
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109265629430158597?domain=https%3A%2F%2Fsimian.rodeo&style=social)
+You can also find me on **[Mastodon](https://simian.rodeo/@jasontucker)** and **[Pixelfed](https://pixelfed.com/@jasontucker)**
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109265629430158597?domain=https%3A%2F%2Fsimian.rodeo&style=social)](https://simian.rodeo/@jasontucker)
 
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@wpwatercooler-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/wpwatercooler?sub_confirmation=1) 
