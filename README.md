@@ -23,6 +23,11 @@ I also stream and record videos of my kid playing water polo [personal YouTube C
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [EP25 - Mastodon + On + On - Dev Branch](https://www.youtube.com/watch?v=c0t-mgwv6Kc)
+- [EP443 - WordPress Fields API with Scott Kingsley Clark - WPwatercooler](https://www.youtube.com/watch?v=NYAslrYgs8s)
+- [EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape](https://www.youtube.com/watch?v=Sfln2Kpnllk)
+- [Little Plugins, Big Help](https://www.youtube.com/watch?v=_OnYhhePrDQ)
+- [Improving WPwatercooler YouTube metadata with ChatGPT #wordpress #youtube #chatgpt](https://www.youtube.com/watch?v=uYYPsSMCOWA)
 <!-- YOUTUBE:END -->
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
