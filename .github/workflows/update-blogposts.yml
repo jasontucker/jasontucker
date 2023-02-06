@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.wpwatercooler.com/feed, https://www.createdimperfectly.com/feed"
+          feed_list: "https://jasontucker.blog/feed"
