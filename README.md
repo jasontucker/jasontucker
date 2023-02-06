@@ -11,7 +11,7 @@ You can also find me on **[Mastodon](https://simian.rodeo/@jasontucker)** and **
 
 Weekly I stream videos live on my [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler) we air Fridays at 11am Pacific.
 
-I also stream and record videos of my kid playing water polo [personal YouTube Channel](https://youtube.com/abstrakone)
+I also stream and record videos of my kid playing water polo [YouTube Channel: abstrakONE](https://youtube.com/abstrakone)
 
 
 
@@ -29,6 +29,7 @@ I also stream and record videos of my kid playing water polo [personal YouTube C
 - [Little Plugins, Big Help](https://www.youtube.com/watch?v=_OnYhhePrDQ)
 - [Improving WPwatercooler YouTube metadata with ChatGPT #wordpress #youtube #chatgpt](https://www.youtube.com/watch?v=uYYPsSMCOWA)
 <!-- YOUTUBE:END -->
+[YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
