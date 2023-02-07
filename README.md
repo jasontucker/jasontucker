@@ -63,6 +63,21 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 - [EP443 - WordPress Fields API with Scott Kingsley Clark](https://wpwatercooler.com/wpwatercooler/ep443-wordpress-fields-api-with-scott-kingsley-clark/)
 - [EP443 - WordPress Fields API with Scott Kingsley Clark](https://wpwatercooler.com/wpwatercooler/ep443-wordpress-fields-api-with-scott-kingsley-clark/)
 - [EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape](https://wpwatercooler.com/wpwatercooler/ep442-little-contributor-big-community-navigating-the-wordpress-landscape/)
+- [EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape](https://wpwatercooler.com/wpwatercooler/ep442-little-contributor-big-community-navigating-the-wordpress-landscape/)
+- [What’s with ActivityPub + WordPress + Cloudflare not working?](https://jasontucker.blog/14308/whats-with-activitypub-wordpress-cloudflare-not-working)
+- [EP441 - Little Plugins, Big Help](https://wpwatercooler.com/wpwatercooler/ep441-little-plugins-big-help/)
+- [EP441 - Little Plugins, Big Help](https://wpwatercooler.com/wpwatercooler/ep441-little-plugins-big-help/)
+- [Using ChatGPT to optimize YouTube content for WPwatercooler](https://jasontucker.blog/14252/using-chatgpt-to-optimize-youtube-content-for-wpwatercooler)
+- [EP440 - Year in review and forward at 2023](https://wpwatercooler.com/wpwatercooler/ep440-year-in-review-and-forward-at-2023/)
+- [EP440 - Year in review and forward at 2023](https://wpwatercooler.com/wpwatercooler/ep440-year-in-review-and-forward-at-2023/)
+- [EP439 - State of the Word 2022 Recap](https://wpwatercooler.com/wpwatercooler/ep439-state-of-the-word-2022-recap/)
+- [EP439 - State of the Word 2022 Recap](https://wpwatercooler.com/wpwatercooler/ep439-state-of-the-word-2022-recap/)
+- [EP438 - Content Creation for a WordPress Brand](https://wpwatercooler.com/wpwatercooler/ep437-content-creation-for-a-wordpress-brand/)
+- [EP438 - Content Creation for a WordPress Brand](https://wpwatercooler.com/wpwatercooler/ep437-content-creation-for-a-wordpress-brand/)
+- [EP437 - Funding the Dream with the WP Community Collective](https://wpwatercooler.com/wpwatercooler/ep437-funding-the-dream-with-the-wp-community-collective/)
+- [EP437 - Funding the Dream with the WP Community Collective](https://wpwatercooler.com/wpwatercooler/ep437-funding-the-dream-with-the-wp-community-collective/)
+- [How should I indieweb?](https://jasontucker.blog/14193/how-should-i-indieweb)
+- [Mastodon, indieweb and the fediverse](https://jasontucker.blog/14183/mastodon-indieweb-and-the-fediverse)
 <!-- BLOG-POST-LIST:END -->
 
 
