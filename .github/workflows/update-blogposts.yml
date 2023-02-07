@@ -18,5 +18,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 20
-          feed_list: "https://jasontucker.blog/feed/,https://wpwatercooler.com/wpwatercooler/feed/,https://wpwatercooler.com/devbranch/feed/"
-          feed_names: "Jason Tucker,WPwatercooler Show,Dev Branch Show"
+          feed_list: "https://jasontucker.blog/feed/,https://wpwatercooler.com/wpwatercooler/feed/"
+          feed_names: "Jason Tucker,WPwatercooler Show"
