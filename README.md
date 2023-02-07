@@ -58,11 +58,11 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s with ActivityPub + WordPress + Cloudflare not working?](https://jasontucker.blog/14308/whats-with-activitypub-wordpress-cloudflare-not-working)
-- [Using ChatGPT to optimize YouTube content for WPwatercooler](https://jasontucker.blog/14252/using-chatgpt-to-optimize-youtube-content-for-wpwatercooler)
-- [How should I indieweb?](https://jasontucker.blog/14193/how-should-i-indieweb)
-- [Mastodon, indieweb and the fediverse](https://jasontucker.blog/14183/mastodon-indieweb-and-the-fediverse)
-- [Playing in the metaverse](https://jasontucker.blog/14112/playing-in-the-metaverse)
+- [EP25 - Mastodon + On + On - Dev Branch](https://wpwatercooler.com/devbranch/ep25-mastodon-on-on-dev-branch/)
+- [EP25 - Mastodon + On + On - Dev Branch](https://wpwatercooler.com/devbranch/ep25-mastodon-on-on-dev-branch/)
+- [EP443 - WordPress Fields API with Scott Kingsley Clark](https://wpwatercooler.com/wpwatercooler/ep443-wordpress-fields-api-with-scott-kingsley-clark/)
+- [EP443 - WordPress Fields API with Scott Kingsley Clark](https://wpwatercooler.com/wpwatercooler/ep443-wordpress-fields-api-with-scott-kingsley-clark/)
+- [EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape](https://wpwatercooler.com/wpwatercooler/ep442-little-contributor-big-community-navigating-the-wordpress-landscape/)
 <!-- BLOG-POST-LIST:END -->
 
 
