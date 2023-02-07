@@ -42,6 +42,8 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
+<br />
+
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@wpwatercooler-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/wpwatercooler?sub_confirmation=1) 
 
 
