@@ -1,5 +1,12 @@
 ### Hi, I'm Jason Tucker
 
+
+# I'm a long time WordPress user and YouTuber!
+
+Weekly I stream videos live on my [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler) we air Fridays at 11am Pacific.
+
+I also stream and record videos of my kid playing water polo [YouTube Channel: abstrakONE](https://youtube.com/abstrakone)
+
 You can also find me on **[Mastodon](https://simian.rodeo/@jasontucker)** and **[Pixelfed](https://pixelfed.com/@jasontucker)**
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109265629430158597?domain=https%3A%2F%2Fsimian.rodeo&style=social)](https://simian.rodeo/@jasontucker)
@@ -7,11 +14,7 @@ You can also find me on **[Mastodon](https://simian.rodeo/@jasontucker)** and **
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@wpwatercooler-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/wpwatercooler?sub_confirmation=1) 
 
-## I'm a long time WordPress user and YouTuber!
 
-Weekly I stream videos live on my [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler) we air Fridays at 11am Pacific.
-
-I also stream and record videos of my kid playing water polo [YouTube Channel: abstrakONE](https://youtube.com/abstrakone)
 
 
 
