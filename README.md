@@ -31,12 +31,16 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [EP25 - Mastodon + On + On - Dev Branch](https://www.youtube.com/watch?v=c0t-mgwv6Kc)
-- [EP443 - WordPress Fields API with Scott Kingsley Clark - WPwatercooler](https://www.youtube.com/watch?v=NYAslrYgs8s)
-- [EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape](https://www.youtube.com/watch?v=Sfln2Kpnllk)
-- [Little Plugins, Big Help](https://www.youtube.com/watch?v=_OnYhhePrDQ)
-- [Improving WPwatercooler YouTube metadata with ChatGPT #wordpress #youtube #chatgpt](https://www.youtube.com/watch?v=uYYPsSMCOWA)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c0t-mgwv6Kc"><img width="140px" src="https://i.ytimg.com/vi/c0t-mgwv6Kc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c0t-mgwv6Kc">EP25 - Mastodon + On + On - Dev Branch</a><br/>Feb 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NYAslrYgs8s"><img width="140px" src="https://i.ytimg.com/vi/NYAslrYgs8s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NYAslrYgs8s">EP443 - WordPress Fields API with Scott Kingsley Clark - WPwatercooler</a><br/>Jan 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Sfln2Kpnllk"><img width="140px" src="https://i.ytimg.com/vi/Sfln2Kpnllk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Sfln2Kpnllk">EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape</a><br/>Jan 21, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_OnYhhePrDQ"><img width="140px" src="https://i.ytimg.com/vi/_OnYhhePrDQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_OnYhhePrDQ">Little Plugins, Big Help</a><br/>Jan 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uYYPsSMCOWA"><img width="140px" src="https://i.ytimg.com/vi/uYYPsSMCOWA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uYYPsSMCOWA">Improving WPwatercooler YouTube metadata with ChatGPT #wordpress #youtube #chatgpt</a><br/>Dec 31, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler)
 
