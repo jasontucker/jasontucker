@@ -3,17 +3,17 @@
 #### I'm a long time WordPress user, Podcaster, and YouTuber!
 
 <div id="badges">
-  <a href="https://linkedin.com/jasontucker">
+  <a href="https://simian.rodeo/@jasontucker">
+<img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109265629430158597?domain=https%3A%2F%2Fsimian.rodeo&label=Follow%20%40jasontucker%40simianrodeo%20on%20Mastodon&logo=mastodon&style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/jasontucker">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtube.com/wpwatercooler">
     <img src="https://img.shields.io/youtube/channel/views/UCJwt6pUOwhJgmcJ9j-uS5Jw?label=YouTube&logo=YOUTUBE&style=for-the-badge" alt="YouTube Bage">
   </a>
-  <a href="https://simian.rodeo/@jasontucker">
-<img alt="Mastodon" src="https://img.shields.io/mastodon/follow/109265629430158597?domain=https%3A%2F%2Fsimian.rodeo&label=Follow%20%40jasontucker%40simianrodeo%20on%20Mastodon&logo=mastodon&style=for-the-badge">
-  </a>
   <a href="https://twitter.com/jasontucker">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
