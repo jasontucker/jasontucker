@@ -59,25 +59,25 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 <!-- BLOG-POST-LIST:START -->
 - [EP25 - Mastodon + On + On - Dev Branch](https://wpwatercooler.com/devbranch/ep25-mastodon-on-on-dev-branch/)
-- [EP25 - Mastodon + On + On - Dev Branch](https://wpwatercooler.com/devbranch/ep25-mastodon-on-on-dev-branch/)
 - [EP443 - WordPress Fields API with Scott Kingsley Clark](https://wpwatercooler.com/wpwatercooler/ep443-wordpress-fields-api-with-scott-kingsley-clark/)
-- [EP443 - WordPress Fields API with Scott Kingsley Clark](https://wpwatercooler.com/wpwatercooler/ep443-wordpress-fields-api-with-scott-kingsley-clark/)
-- [EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape](https://wpwatercooler.com/wpwatercooler/ep442-little-contributor-big-community-navigating-the-wordpress-landscape/)
 - [EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape](https://wpwatercooler.com/wpwatercooler/ep442-little-contributor-big-community-navigating-the-wordpress-landscape/)
 - [What’s with ActivityPub + WordPress + Cloudflare not working?](https://jasontucker.blog/14308/whats-with-activitypub-wordpress-cloudflare-not-working)
 - [EP441 - Little Plugins, Big Help](https://wpwatercooler.com/wpwatercooler/ep441-little-plugins-big-help/)
-- [EP441 - Little Plugins, Big Help](https://wpwatercooler.com/wpwatercooler/ep441-little-plugins-big-help/)
 - [Using ChatGPT to optimize YouTube content for WPwatercooler](https://jasontucker.blog/14252/using-chatgpt-to-optimize-youtube-content-for-wpwatercooler)
 - [EP440 - Year in review and forward at 2023](https://wpwatercooler.com/wpwatercooler/ep440-year-in-review-and-forward-at-2023/)
-- [EP440 - Year in review and forward at 2023](https://wpwatercooler.com/wpwatercooler/ep440-year-in-review-and-forward-at-2023/)
-- [EP439 - State of the Word 2022 Recap](https://wpwatercooler.com/wpwatercooler/ep439-state-of-the-word-2022-recap/)
 - [EP439 - State of the Word 2022 Recap](https://wpwatercooler.com/wpwatercooler/ep439-state-of-the-word-2022-recap/)
 - [EP438 - Content Creation for a WordPress Brand](https://wpwatercooler.com/wpwatercooler/ep437-content-creation-for-a-wordpress-brand/)
-- [EP438 - Content Creation for a WordPress Brand](https://wpwatercooler.com/wpwatercooler/ep437-content-creation-for-a-wordpress-brand/)
-- [EP437 - Funding the Dream with the WP Community Collective](https://wpwatercooler.com/wpwatercooler/ep437-funding-the-dream-with-the-wp-community-collective/)
 - [EP437 - Funding the Dream with the WP Community Collective](https://wpwatercooler.com/wpwatercooler/ep437-funding-the-dream-with-the-wp-community-collective/)
 - [How should I indieweb?](https://jasontucker.blog/14193/how-should-i-indieweb)
 - [Mastodon, indieweb and the fediverse](https://jasontucker.blog/14183/mastodon-indieweb-and-the-fediverse)
+- [Playing in the metaverse](https://jasontucker.blog/14112/playing-in-the-metaverse)
+- [EP436 - A New Dimension of WordPress](https://wpwatercooler.com/wpwatercooler/ep436-a-new-dimension-of-wordpress/)
+- [Streaming high school sports games for others to watch](https://jasontucker.blog/14057/streaming-high-school-sports-games-for-others-to-watch)
+- [EP435 - WordPress Takes Flight: Community in a Post Twitter World](https://wpwatercooler.com/wpwatercooler/ep435-wordpress-takes-flight-community-in-a-post-twitter-world/)
+- [Some tips on taking photos of your kids before school dances](https://jasontucker.blog/14018/some-tips-on-taking-photos-of-your-kids-before-school-dances)
+- [How to delete a certificate restored from an iPhone or iPad backup when switching MDM?](https://jasontucker.blog/14005/how-to-delete-a-certificate-restored-from-an-iphone-or-ipad-backup-when-switching-mdm)
+- [The problem with WordPress blocks, full site editing and custom fields plugins](https://jasontucker.blog/13951/the-problem-with-wordpress-blocks-full-site-editing-and-custom-fields-plugins)
+- [WordPress 5.9 – Testing before release](https://jasontucker.blog/13921/wordpress-5-9-testing-before-release)
 <!-- BLOG-POST-LIST:END -->
 
 
