@@ -20,4 +20,4 @@ jobs:
           max_post_count: 20
           feed_list: "https://jasontucker.blog/feed/,https://wpwatercooler.com/wpwatercooler/feed/"
           feed_names: "Jason Tucker,WPwatercooler Show"
-          template: "<li>$randomEmoji(💯,🔥,💫,🚀,🌮) $title - $url - <em>$feedName</em></li>"
+          template: "<li>$randomEmoji(💯,🔥,💫,🚀,🌮) <a href='$url'>$title</a> - <em>$feedName</em></li>"
