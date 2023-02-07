@@ -44,11 +44,11 @@ You can also find me on **[Mastodon](https://simian.rodeo/@jasontucker)** and **
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When Lutron isn’t available -Smart Hubspace Outdoor 6-Outlet Power Stake](https://createdimperfectly.com/when-lutron-isnt-available-smart-hubspace-outdoor-6-outlet-power-stake/)
-- [Installed new outlets for eGo batteries to charge](https://createdimperfectly.com/installed-new-outlets-for-ego-batteries-to-charge/)
-- [Woodworking – Stacked Pumpkin Yard Decorations](https://createdimperfectly.com/woodworking-stacked-pumpkin-yard-decorations/)
-- [Our journey to roof replacement and solar](https://createdimperfectly.com/our-journey-to-roof-replacement-and-solar/)
-- [Plants around our home – Front Yard Edition](https://createdimperfectly.com/plants-around-our-home-front-yard-edition/)
+- [What’s with ActivityPub + WordPress + Cloudflare not working?](https://jasontucker.blog/14308/whats-with-activitypub-wordpress-cloudflare-not-working)
+- [Using ChatGPT to optimize YouTube content for WPwatercooler](https://jasontucker.blog/14252/using-chatgpt-to-optimize-youtube-content-for-wpwatercooler)
+- [How should I indieweb?](https://jasontucker.blog/14193/how-should-i-indieweb)
+- [Mastodon, indieweb and the fediverse](https://jasontucker.blog/14183/mastodon-indieweb-and-the-fediverse)
+- [Playing in the metaverse](https://jasontucker.blog/14112/playing-in-the-metaverse)
 <!-- BLOG-POST-LIST:END -->
 
 
