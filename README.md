@@ -1,6 +1,24 @@
-### Hi, I'm Jason Tucker
+# Hi, I'm Jason Tucker
 
-# I'm a long time WordPress user and YouTuber!
+#### I'm a long time WordPress user, Podcaster, and YouTuber!
+
+<div id="badges">
+  <a href="https://linkedin.com/jasontucker">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/wpwatercooler">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://simian.rodeo/@jasontucker">
+    <img src="https://img.shields.io/badge/mastodon?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+  </a>
+  <a href="https://twitter.com/jasontucker">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
+
 
 Weekly I stream videos live on my [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler) we air Fridays at 11am Pacific.
 
