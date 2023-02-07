@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtube.com/wpwatercooler">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/youtube/channel/views/UCJwt6pUOwhJgmcJ9j-uS5Jw?label=YouTube&logo=YOUTUBE&style=for-the-badge" alt="YouTube Bage">
   </a>
   <a href="https://simian.rodeo/@jasontucker">
     <img src="https://img.shields.io/mastodon/follow/109265629430158597?domain=https%3A%2F%2Fsimian.rodeo&style=for-the-badge&logo=mastodon" alt="Mastodon Badge"/>
