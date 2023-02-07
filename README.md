@@ -42,7 +42,7 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <table><tr><td><a href="https://www.youtube.com/watch?v=uYYPsSMCOWA"><img width="140px" src="https://i.ytimg.com/vi/uYYPsSMCOWA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uYYPsSMCOWA">Improving WPwatercooler YouTube metadata with ChatGPT #wordpress #youtube #chatgpt</a><br/>Dec 31, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
-[YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler)
+
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJwt6pUOwhJgmcJ9j-uS5Jw?style=social)
