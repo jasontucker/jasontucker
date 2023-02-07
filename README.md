@@ -1,6 +1,5 @@
 ### Hi, I'm Jason Tucker
 
-
 # I'm a long time WordPress user and YouTuber!
 
 Weekly I stream videos live on my [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler) we air Fridays at 11am Pacific.
