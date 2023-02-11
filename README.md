@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c0t-mgwv6Kc"><img width="140px" src="https://i.ytimg.com/vi/c0t-mgwv6Kc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jLgNkzfOF8M"><img width="140px" src="https://i.ytimg.com/vi/jLgNkzfOF8M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jLgNkzfOF8M">EP444 - WordPress and the Beginner&#39;s Mind - WPwatercooler</a><br/>Feb 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c0t-mgwv6Kc"><img width="140px" src="https://i.ytimg.com/vi/c0t-mgwv6Kc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c0t-mgwv6Kc">EP25 - Mastodon + On + On - Dev Branch</a><br/>Feb 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NYAslrYgs8s"><img width="140px" src="https://i.ytimg.com/vi/NYAslrYgs8s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NYAslrYgs8s">EP443 - WordPress Fields API with Scott Kingsley Clark - WPwatercooler</a><br/>Jan 28, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=Sfln2Kpnllk">EP442 - Little Contributor, Big Community: Navigating the WordPress Landscape</a><br/>Jan 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_OnYhhePrDQ"><img width="140px" src="https://i.ytimg.com/vi/_OnYhhePrDQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_OnYhhePrDQ">Little Plugins, Big Help</a><br/>Jan 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uYYPsSMCOWA"><img width="140px" src="https://i.ytimg.com/vi/uYYPsSMCOWA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uYYPsSMCOWA">Improving WPwatercooler YouTube metadata with ChatGPT #wordpress #youtube #chatgpt</a><br/>Dec 31, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
