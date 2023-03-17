@@ -31,9 +31,7 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_4dIUBo_O-0"><img width="140px" src="https://i.ytimg.com/vi/_4dIUBo_O-0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_4dIUBo_O-0">EP448 - Nothing is certain but CPTs &amp; taxes - WPwatercooler</a><br/>Mar 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=11fuZVS3lS8"><img width="140px" src="https://i.ytimg.com/vi/11fuZVS3lS8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=11fuZVS3lS8"><img width="140px" src="https://i.ytimg.com/vi/11fuZVS3lS8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=11fuZVS3lS8">EP447 - What&#39;s New in WordPress 6.2? - WPwatercooler</a><br/>Mar 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hEfMsgQW46U"><img width="140px" src="https://i.ytimg.com/vi/hEfMsgQW46U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hEfMsgQW46U">EP26 - Different Ways to WordPress - Dev Branch</a><br/>Mar 4, 2023</td></tr></table>
@@ -41,6 +39,8 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=mWZ0_BlGP40">EP446 - WordCamp Asia Brings the Heat - WPwatercooler</a><br/>Feb 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t07u_n9EOdc"><img width="140px" src="https://i.ytimg.com/vi/t07u_n9EOdc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t07u_n9EOdc">WordPress Apps: The Big Unbundling</a><br/>Feb 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jLgNkzfOF8M"><img width="140px" src="https://i.ytimg.com/vi/jLgNkzfOF8M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jLgNkzfOF8M">EP444 - WordPress and the Beginner&#39;s Mind - WPwatercooler</a><br/>Feb 11, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
