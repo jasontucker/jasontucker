@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ctFaMrEEfr0"><img width="140px" src="https://i.ytimg.com/vi/ctFaMrEEfr0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=flb-w6tx778"><img width="140px" src="https://i.ytimg.com/vi/flb-w6tx778/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=flb-w6tx778">EP452 - Doom or Boom: AI in WordPress - WPwatercooler</a><br/>Apr 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ctFaMrEEfr0"><img width="140px" src="https://i.ytimg.com/vi/ctFaMrEEfr0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ctFaMrEEfr0">EP451 - Accelerating WordPress w/ Jonathan Wold  - WPwatercooler</a><br/>Apr 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZLkeWOYuDwQ"><img width="140px" src="https://i.ytimg.com/vi/ZLkeWOYuDwQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZLkeWOYuDwQ">EP450 - Phase 3 of the WordPress Enigmatic Gutenverse - WPwatercooler</a><br/>Apr 8, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=laN0vFyHJ0c">EP449 - A Spring Clean WordPress Routine  - WPwatercooler</a><br/>Mar 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_4dIUBo_O-0"><img width="140px" src="https://i.ytimg.com/vi/_4dIUBo_O-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_4dIUBo_O-0">EP448 - Nothing is certain but CPTs &amp; taxes - WPwatercooler</a><br/>Mar 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=11fuZVS3lS8"><img width="140px" src="https://i.ytimg.com/vi/11fuZVS3lS8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=11fuZVS3lS8">EP447 - What&#39;s New in WordPress 6.2? - WPwatercooler</a><br/>Mar 11, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
