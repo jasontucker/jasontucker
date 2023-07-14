@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zMWDjWx9qQk"><img width="140px" src="https://i.ytimg.com/vi/zMWDjWx9qQk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CpA_1-k-P8o"><img width="140px" src="https://i.ytimg.com/vi/CpA_1-k-P8o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CpA_1-k-P8o">EP458 - WordPress and an Industry in Flux  - WPwatercooler</a><br/>Jul 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zMWDjWx9qQk"><img width="140px" src="https://i.ytimg.com/vi/zMWDjWx9qQk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zMWDjWx9qQk">EP29 - Breaking Changes: WordPress 6.3 Drops PHP5</a><br/>Jul 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5thQ9fxyzH4"><img width="140px" src="https://i.ytimg.com/vi/5thQ9fxyzH4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5thQ9fxyzH4">EP457 - A Reusable Block By Any Other Name - WPwatercooler</a><br/>Jul 1, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=lH9J8kD2fEU">EP456 - Gutenberg: More Than WordPress</a><br/>Jun 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OsoCink9K9Y"><img width="140px" src="https://i.ytimg.com/vi/OsoCink9K9Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OsoCink9K9Y">EP28 - Turn On, Plug In, Drop Out - Dev Branch</a><br/>Jun 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PO-r0aSW6qk"><img width="140px" src="https://i.ytimg.com/vi/PO-r0aSW6qk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PO-r0aSW6qk">EP455 - Happy 20th Birthday, WordPress! - WPwatercooler</a><br/>May 27, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
