@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cIwdvi3okms"><img width="140px" src="https://i.ytimg.com/vi/cIwdvi3okms/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xwpNFhdYDE4"><img width="140px" src="https://i.ytimg.com/vi/xwpNFhdYDE4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xwpNFhdYDE4">EP462 - Summiting WordCamp US 2023</a><br/>Aug 25, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cIwdvi3okms"><img width="140px" src="https://i.ytimg.com/vi/cIwdvi3okms/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cIwdvi3okms">EP461 - Ten Years to Launch - WPwatercooler</a><br/>Aug 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3CB6wJGYISg"><img width="140px" src="https://i.ytimg.com/vi/3CB6wJGYISg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3CB6wJGYISg">EP30 - Block and Awesome - Dev Branch</a><br/>Aug 5, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=wd_b9Lxcuao">EP460 - From Wish to Commit: The WordPress 6.4 Wishlist - WPwatercooler</a><br/>Jul 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ltgI95EdrAU"><img width="140px" src="https://i.ytimg.com/vi/ltgI95EdrAU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ltgI95EdrAU">EP459 - What’s new in WordPress 6.3 - WPwatercooler</a><br/>Jul 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CpA_1-k-P8o"><img width="140px" src="https://i.ytimg.com/vi/CpA_1-k-P8o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CpA_1-k-P8o">EP458 - WordPress and an Industry in Flux  - WPwatercooler</a><br/>Jul 15, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
