@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xwpNFhdYDE4"><img width="140px" src="https://i.ytimg.com/vi/xwpNFhdYDE4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=L6KhmhFq_qs"><img width="140px" src="https://i.ytimg.com/vi/L6KhmhFq_qs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L6KhmhFq_qs">EP31 - Playing the Fields API - Dev Branch</a><br/>Sep 1, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xwpNFhdYDE4"><img width="140px" src="https://i.ytimg.com/vi/xwpNFhdYDE4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xwpNFhdYDE4">EP462 - Summiting WordCamp US 2023 - Contributor Day, Marketing Team &amp; WordCamp US</a><br/>Aug 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cIwdvi3okms"><img width="140px" src="https://i.ytimg.com/vi/cIwdvi3okms/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cIwdvi3okms">EP461 - Ten Years to Launch - WPwatercooler</a><br/>Aug 12, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=3CB6wJGYISg">EP30 - Block and Awesome - Dev Branch</a><br/>Aug 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wd_b9Lxcuao"><img width="140px" src="https://i.ytimg.com/vi/wd_b9Lxcuao/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wd_b9Lxcuao">EP460 - From Wish to Commit: The WordPress 6.4 Wishlist - WPwatercooler</a><br/>Jul 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ltgI95EdrAU"><img width="140px" src="https://i.ytimg.com/vi/ltgI95EdrAU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ltgI95EdrAU">EP459 - What’s new in WordPress 6.3 - WPwatercooler</a><br/>Jul 22, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
