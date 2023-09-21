@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HiW01UOPkJM"><img width="140px" src="https://i.ytimg.com/vi/HiW01UOPkJM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kvBABfuuq7Y"><img width="140px" src="https://i.ytimg.com/vi/kvBABfuuq7Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kvBABfuuq7Y">EP464 - Fight for the Future - WPwatercooler</a><br/>Sep 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HiW01UOPkJM"><img width="140px" src="https://i.ytimg.com/vi/HiW01UOPkJM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HiW01UOPkJM">EP463 - Not that kind of block - WPwatercooler</a><br/>Sep 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=L6KhmhFq_qs"><img width="140px" src="https://i.ytimg.com/vi/L6KhmhFq_qs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L6KhmhFq_qs">EP31 - Playing the Fields API - Dev Branch</a><br/>Sep 2, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=xwpNFhdYDE4">EP462 - Summiting WordCamp US 2023 - Contributor Day, Marketing Team &amp; WordCamp US</a><br/>Aug 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cIwdvi3okms"><img width="140px" src="https://i.ytimg.com/vi/cIwdvi3okms/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cIwdvi3okms">EP461 - Ten Years to Launch - WPwatercooler</a><br/>Aug 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3CB6wJGYISg"><img width="140px" src="https://i.ytimg.com/vi/3CB6wJGYISg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3CB6wJGYISg">EP30 - Block and Awesome - Dev Branch</a><br/>Aug 5, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
