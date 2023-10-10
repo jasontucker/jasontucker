@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NxRTOHX1RNs"><img width="140px" src="https://i.ytimg.com/vi/NxRTOHX1RNs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aqeKKIMaqfg"><img width="140px" src="https://i.ytimg.com/vi/aqeKKIMaqfg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aqeKKIMaqfg">EP466 - The Media Library ends its silence - WPwatercooler</a><br/>Oct 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NxRTOHX1RNs"><img width="140px" src="https://i.ytimg.com/vi/NxRTOHX1RNs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NxRTOHX1RNs">EP32 - WP Playground’s Plugin Problem - Dev Branch</a><br/>Oct 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sTPXnn8PxlE"><img width="140px" src="https://i.ytimg.com/vi/sTPXnn8PxlE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sTPXnn8PxlE">EP465 - What&#39;s New in WordPress 6.4 Beta 1 - WPwatercooler</a><br/>Sep 30, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=kvBABfuuq7Y">EP464 - Fight for the Future - WPwatercooler</a><br/>Sep 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HiW01UOPkJM"><img width="140px" src="https://i.ytimg.com/vi/HiW01UOPkJM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HiW01UOPkJM">EP463 - Not that kind of block - WPwatercooler</a><br/>Sep 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=L6KhmhFq_qs"><img width="140px" src="https://i.ytimg.com/vi/L6KhmhFq_qs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=L6KhmhFq_qs">EP31 - Playing the Fields API - Dev Branch</a><br/>Sep 2, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
