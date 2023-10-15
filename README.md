@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NDXoeveEV9I"><img width="140px" src="https://i.ytimg.com/vi/NDXoeveEV9I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GpyBBmP1vVc"><img width="140px" src="https://i.ytimg.com/vi/GpyBBmP1vVc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GpyBBmP1vVc">The importance of classify Images and Photos in WordPress Media Library</a><br/>Oct 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NDXoeveEV9I"><img width="140px" src="https://i.ytimg.com/vi/NDXoeveEV9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDXoeveEV9I">🔍 Surveying WordPress Media Plugins! 🚀 #wordpress #medialibrary</a><br/>Oct 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aqeKKIMaqfg"><img width="140px" src="https://i.ytimg.com/vi/aqeKKIMaqfg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aqeKKIMaqfg">EP466 - The Media Library ends its silence - WPwatercooler</a><br/>Oct 14, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=NxRTOHX1RNs">EP32 - WP Playground’s Plugin Problem - Dev Branch</a><br/>Oct 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sTPXnn8PxlE"><img width="140px" src="https://i.ytimg.com/vi/sTPXnn8PxlE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sTPXnn8PxlE">EP465 - What&#39;s New in WordPress 6.4 Beta 1 - WPwatercooler</a><br/>Sep 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kvBABfuuq7Y"><img width="140px" src="https://i.ytimg.com/vi/kvBABfuuq7Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kvBABfuuq7Y">EP464 - Fight for the Future - WPwatercooler</a><br/>Sep 23, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
