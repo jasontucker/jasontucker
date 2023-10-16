@@ -31,16 +31,16 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MpQMcrgg7qA"><img width="140px" src="https://i.ytimg.com/vi/MpQMcrgg7qA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8w6rS0mNEhU"><img width="140px" src="https://i.ytimg.com/vi/8w6rS0mNEhU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8w6rS0mNEhU">Plugins for media library #WordPress #medialibrary</a><br/>Oct 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kSZxkEOvW4g"><img width="140px" src="https://i.ytimg.com/vi/kSZxkEOvW4g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kSZxkEOvW4g">Devs want comments near code #WordPress #medialibrary</a><br/>Oct 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MpQMcrgg7qA"><img width="140px" src="https://i.ytimg.com/vi/MpQMcrgg7qA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MpQMcrgg7qA">Only the 5 stars - WordPress Media Library #wordpress #medialibrary</a><br/>Oct 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GpyBBmP1vVc"><img width="140px" src="https://i.ytimg.com/vi/GpyBBmP1vVc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GpyBBmP1vVc">The importance of classify Images and Photos in WordPress Media Library</a><br/>Oct 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDXoeveEV9I"><img width="140px" src="https://i.ytimg.com/vi/NDXoeveEV9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDXoeveEV9I">🔍 Surveying WordPress Media Plugins! 🚀 #wordpress #medialibrary</a><br/>Oct 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aqeKKIMaqfg"><img width="140px" src="https://i.ytimg.com/vi/aqeKKIMaqfg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aqeKKIMaqfg">EP466 - The Media Library ends its silence - WPwatercooler</a><br/>Oct 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NxRTOHX1RNs"><img width="140px" src="https://i.ytimg.com/vi/NxRTOHX1RNs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NxRTOHX1RNs">EP32 - WP Playground’s Plugin Problem - Dev Branch</a><br/>Oct 7, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
