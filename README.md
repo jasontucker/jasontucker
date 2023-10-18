@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uQMSlacr-ks"><img width="140px" src="https://i.ytimg.com/vi/uQMSlacr-ks/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AsvPrTJU5Zw"><img width="140px" src="https://i.ytimg.com/vi/AsvPrTJU5Zw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AsvPrTJU5Zw">Comments in Figma Good Enough? #wordpress #figma #design #ui #ux</a><br/>Oct 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uQMSlacr-ks"><img width="140px" src="https://i.ytimg.com/vi/uQMSlacr-ks/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uQMSlacr-ks">A Good Media Library Replacement?</a><br/>Oct 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QcQOyWOtxAI"><img width="140px" src="https://i.ytimg.com/vi/QcQOyWOtxAI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QcQOyWOtxAI">Media Library and Gutenberg Concepts #WordPress #Gutenberg #medialibrary</a><br/>Oct 16, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=8w6rS0mNEhU">Plugins for media library #WordPress #medialibrary</a><br/>Oct 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kSZxkEOvW4g"><img width="140px" src="https://i.ytimg.com/vi/kSZxkEOvW4g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kSZxkEOvW4g">Devs want comments near code #WordPress #medialibrary</a><br/>Oct 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MpQMcrgg7qA"><img width="140px" src="https://i.ytimg.com/vi/MpQMcrgg7qA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MpQMcrgg7qA">Only the 5 stars - WordPress Media Library #wordpress #medialibrary</a><br/>Oct 15, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
