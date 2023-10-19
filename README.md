@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=guBEGCjOQ6M"><img width="140px" src="https://i.ytimg.com/vi/guBEGCjOQ6M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ee19MfayhhM"><img width="140px" src="https://i.ytimg.com/vi/ee19MfayhhM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ee19MfayhhM">EP467 - WordStressed - WPwatercooler</a><br/>Oct 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=guBEGCjOQ6M"><img width="140px" src="https://i.ytimg.com/vi/guBEGCjOQ6M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=guBEGCjOQ6M">Who should update the media library #WordPress #MediaLibrary #WordPressMediaLibrary</a><br/>Oct 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AsvPrTJU5Zw"><img width="140px" src="https://i.ytimg.com/vi/AsvPrTJU5Zw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AsvPrTJU5Zw">Comments in Figma Good Enough? #wordpress #figma #design #ui #ux</a><br/>Oct 18, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=uQMSlacr-ks">A Good Media Library Replacement?</a><br/>Oct 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QcQOyWOtxAI"><img width="140px" src="https://i.ytimg.com/vi/QcQOyWOtxAI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QcQOyWOtxAI">Media Library and Gutenberg Concepts #WordPress #Gutenberg #medialibrary</a><br/>Oct 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8w6rS0mNEhU"><img width="140px" src="https://i.ytimg.com/vi/8w6rS0mNEhU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8w6rS0mNEhU">Plugins for media library #WordPress #medialibrary</a><br/>Oct 16, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
