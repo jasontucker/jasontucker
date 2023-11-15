@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mI2BfwfxTQo"><img width="140px" src="https://i.ytimg.com/vi/mI2BfwfxTQo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c"><img width="140px" src="https://i.ytimg.com/vi/4utHyJmaZ_c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c">EP469 - Synching WordPress - WPwatercooler</a><br/>Nov 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mI2BfwfxTQo"><img width="140px" src="https://i.ytimg.com/vi/mI2BfwfxTQo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mI2BfwfxTQo">EP468 - UncURLing WordPress 6.4 - WPwatercooler</a><br/>Nov 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ee19MfayhhM"><img width="140px" src="https://i.ytimg.com/vi/ee19MfayhhM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ee19MfayhhM">EP467 - WordStressed - WPwatercooler</a><br/>Oct 21, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=guBEGCjOQ6M">Who should update the media library #WordPress #MediaLibrary #WordPressMediaLibrary</a><br/>Oct 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AsvPrTJU5Zw"><img width="140px" src="https://i.ytimg.com/vi/AsvPrTJU5Zw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AsvPrTJU5Zw">Comments in Figma Good Enough? #wordpress #figma #design #ui #ux</a><br/>Oct 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uQMSlacr-ks"><img width="140px" src="https://i.ytimg.com/vi/uQMSlacr-ks/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uQMSlacr-ks">A Good Media Library Replacement?</a><br/>Oct 17, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
