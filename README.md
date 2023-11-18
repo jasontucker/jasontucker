@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ByY1msbiErs"><img width="140px" src="https://i.ytimg.com/vi/ByY1msbiErs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hB4ZyzDyzhQ"><img width="140px" src="https://i.ytimg.com/vi/hB4ZyzDyzhQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hB4ZyzDyzhQ">Content: The Heartbeat of a Website</a><br/>Nov 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ByY1msbiErs"><img width="140px" src="https://i.ytimg.com/vi/ByY1msbiErs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ByY1msbiErs">The Surprising Impact of Unused Images on Server Performance</a><br/>Nov 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7rzODmEgL-0"><img width="140px" src="https://i.ytimg.com/vi/7rzODmEgL-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7rzODmEgL-0">Unveiling the Data Flow: Diagrams that Simplify Automation Processes</a><br/>Nov 18, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=9VU6wz5JHA0">Unlocking the Power of Data: WordPress and Airtable Integration</a><br/>Nov 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gs1AAU9cTiw"><img width="140px" src="https://i.ytimg.com/vi/gs1AAU9cTiw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gs1AAU9cTiw">Boost MySQL Database Performance with Indexing</a><br/>Nov 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c"><img width="140px" src="https://i.ytimg.com/vi/4utHyJmaZ_c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c">EP469 - Synching WordPress - WPwatercooler</a><br/>Nov 18, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
