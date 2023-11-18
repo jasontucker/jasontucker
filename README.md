@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x7ldnLbMH1Y"><img width="140px" src="https://i.ytimg.com/vi/x7ldnLbMH1Y/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c"><img width="140px" src="https://i.ytimg.com/vi/4utHyJmaZ_c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c">EP469 - Synching WordPress - WPwatercooler</a><br/>Nov 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=x7ldnLbMH1Y"><img width="140px" src="https://i.ytimg.com/vi/x7ldnLbMH1Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x7ldnLbMH1Y">Unleashing the Power of Funding: Conveying Value to Ignite Support</a><br/>Nov 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sZlWaTycuLM"><img width="140px" src="https://i.ytimg.com/vi/sZlWaTycuLM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sZlWaTycuLM">The Hidden Impact: Contributing to WordPress Beyond Code</a><br/>Nov 16, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=AGYERcJybPs">The Surprising Consequences of Ignoring Testing in Request Library Updates</a><br/>Nov 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qfYV2f_okKE"><img width="140px" src="https://i.ytimg.com/vi/qfYV2f_okKE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qfYV2f_okKE">Unbelievable Neglect in Technology: The Real Cost of Using Libraries</a><br/>Nov 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c"><img width="140px" src="https://i.ytimg.com/vi/4utHyJmaZ_c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4utHyJmaZ_c">EP469 - Synching WordPress - WPwatercooler</a><br/>Nov 15, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
