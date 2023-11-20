@@ -31,16 +31,16 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=u98ps4aZjtY"><img width="140px" src="https://i.ytimg.com/vi/u98ps4aZjtY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MfiDxcojtSc"><img width="140px" src="https://i.ytimg.com/vi/MfiDxcojtSc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MfiDxcojtSc">Unlocking the Power of ACF: Transforming Airtable Data to WordPress Website</a><br/>Nov 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Dfjn9TcSl2w"><img width="140px" src="https://i.ytimg.com/vi/Dfjn9TcSl2w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Dfjn9TcSl2w">It&#39;s not just about the software but the problem you are solving</a><br/>Nov 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=u98ps4aZjtY"><img width="140px" src="https://i.ytimg.com/vi/u98ps4aZjtY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u98ps4aZjtY">The Limitations of AirTable&#39;s Scalability: Is Media Storage Worth the Cost?</a><br/>Nov 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hB4ZyzDyzhQ"><img width="140px" src="https://i.ytimg.com/vi/hB4ZyzDyzhQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hB4ZyzDyzhQ">Content: The Heartbeat of a Website</a><br/>Nov 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ByY1msbiErs"><img width="140px" src="https://i.ytimg.com/vi/ByY1msbiErs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ByY1msbiErs">The Surprising Impact of Unused Images on Server Performance</a><br/>Nov 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7rzODmEgL-0"><img width="140px" src="https://i.ytimg.com/vi/7rzODmEgL-0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7rzODmEgL-0">Unveiling the Data Flow: Diagrams that Simplify Automation Processes</a><br/>Nov 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9VU6wz5JHA0"><img width="140px" src="https://i.ytimg.com/vi/9VU6wz5JHA0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9VU6wz5JHA0">Unlocking the Power of Data: WordPress and Airtable Integration</a><br/>Nov 18, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
