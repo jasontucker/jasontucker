@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qe4WI_fw2s4"><img width="140px" src="https://i.ytimg.com/vi/qe4WI_fw2s4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kCBGLoejWd0"><img width="140px" src="https://i.ytimg.com/vi/kCBGLoejWd0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kCBGLoejWd0">The Hidden Cost of AWS Revealed! Discover Affordable Cloud Storage!</a><br/>Nov 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qe4WI_fw2s4"><img width="140px" src="https://i.ytimg.com/vi/qe4WI_fw2s4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qe4WI_fw2s4">Inside the Complex World of Data Mapping: Unveiling the Challenges</a><br/>Nov 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n2FSwfahjmE"><img width="140px" src="https://i.ytimg.com/vi/n2FSwfahjmE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n2FSwfahjmE">Ditching Old Data Formats: Revolutionizing Content Storage for Enhanced Flexibility</a><br/>Nov 20, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=MfiDxcojtSc">Unlocking the Power of ACF: Transforming Airtable Data to WordPress Website</a><br/>Nov 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Dfjn9TcSl2w"><img width="140px" src="https://i.ytimg.com/vi/Dfjn9TcSl2w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Dfjn9TcSl2w">It&#39;s not just about the software but the problem you are solving</a><br/>Nov 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=u98ps4aZjtY"><img width="140px" src="https://i.ytimg.com/vi/u98ps4aZjtY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=u98ps4aZjtY">The Limitations of AirTable&#39;s Scalability: Is Media Storage Worth the Cost?</a><br/>Nov 19, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
