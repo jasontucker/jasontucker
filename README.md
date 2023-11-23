@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_RsDQ7SDg_8"><img width="140px" src="https://i.ytimg.com/vi/_RsDQ7SDg_8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DNU0_OV8oHc"><img width="140px" src="https://i.ytimg.com/vi/DNU0_OV8oHc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DNU0_OV8oHc">The Blurred Lines Between Websites and Apps in Modern Times</a><br/>Nov 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_RsDQ7SDg_8"><img width="140px" src="https://i.ytimg.com/vi/_RsDQ7SDg_8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_RsDQ7SDg_8">The Surprising Debate: Are WordPress Implementers Developers?</a><br/>Nov 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1ZgrMV1EKMo"><img width="140px" src="https://i.ytimg.com/vi/1ZgrMV1EKMo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1ZgrMV1EKMo">Scale your website without breaking the bank by optimizing hosting</a><br/>Nov 22, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=kCBGLoejWd0">The Hidden Cost of AWS Revealed! Discover Affordable Cloud Storage!</a><br/>Nov 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qe4WI_fw2s4"><img width="140px" src="https://i.ytimg.com/vi/qe4WI_fw2s4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qe4WI_fw2s4">Inside the Complex World of Data Mapping: Unveiling the Challenges</a><br/>Nov 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=n2FSwfahjmE"><img width="140px" src="https://i.ytimg.com/vi/n2FSwfahjmE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n2FSwfahjmE">Ditching Old Data Formats: Revolutionizing Content Storage for Enhanced Flexibility</a><br/>Nov 20, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
