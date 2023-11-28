@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Y_jzPg-XKWY"><img width="140px" src="https://i.ytimg.com/vi/Y_jzPg-XKWY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3s_xRRzVxdg"><img width="140px" src="https://i.ytimg.com/vi/3s_xRRzVxdg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3s_xRRzVxdg">EP470 - Goodbye, Hello Dolly</a><br/>Nov 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Y_jzPg-XKWY"><img width="140px" src="https://i.ytimg.com/vi/Y_jzPg-XKWY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Y_jzPg-XKWY">Join Our Exciting Discord Community for WordPress Tips &amp; Focus!</a><br/>Nov 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bbSAhl2d6Io"><img width="140px" src="https://i.ytimg.com/vi/bbSAhl2d6Io/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bbSAhl2d6Io">Unlocking the Power of ACF: Streamlining Data Storage and Integration with Air Table</a><br/>Nov 24, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=DNU0_OV8oHc">The Blurred Lines Between Websites and Apps in Modern Times</a><br/>Nov 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_RsDQ7SDg_8"><img width="140px" src="https://i.ytimg.com/vi/_RsDQ7SDg_8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_RsDQ7SDg_8">The Surprising Debate: Are WordPress Implementers Developers?</a><br/>Nov 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1ZgrMV1EKMo"><img width="140px" src="https://i.ytimg.com/vi/1ZgrMV1EKMo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1ZgrMV1EKMo">Scale your website without breaking the bank by optimizing hosting</a><br/>Nov 22, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
