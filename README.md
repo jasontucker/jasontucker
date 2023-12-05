@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N8yHt8Tzy-I"><img width="140px" src="https://i.ytimg.com/vi/N8yHt8Tzy-I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=a6wXhbpj5Mc"><img width="140px" src="https://i.ytimg.com/vi/a6wXhbpj5Mc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=a6wXhbpj5Mc">An alternative to Hello Dolly, Hello Donnie</a><br/>Dec 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=N8yHt8Tzy-I"><img width="140px" src="https://i.ytimg.com/vi/N8yHt8Tzy-I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N8yHt8Tzy-I">Jason Tucker doesn&#39;t like Jazz? But likes jazz riffs in hiphop.</a><br/>Dec 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8vEqPjLQI0M"><img width="140px" src="https://i.ytimg.com/vi/8vEqPjLQI0M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8vEqPjLQI0M">Are new devs looking at Hello Dolly to learn?</a><br/>Dec 5, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=3s_xRRzVxdg">EP470 - Goodbye, Hello Dolly - WPwatercooler</a><br/>Dec 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JnprHZInmRA"><img width="140px" src="https://i.ytimg.com/vi/JnprHZInmRA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JnprHZInmRA">Jazz - From Hip Hop to Classic Melodies</a><br/>Dec 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Y_jzPg-XKWY"><img width="140px" src="https://i.ytimg.com/vi/Y_jzPg-XKWY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Y_jzPg-XKWY">Join Our Exciting Discord Community for WordPress Tips &amp; Focus!</a><br/>Nov 24, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
