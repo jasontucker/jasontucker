@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=02bdagSUp0o"><img width="140px" src="https://i.ytimg.com/vi/02bdagSUp0o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8XetWw8u3fg"><img width="140px" src="https://i.ytimg.com/vi/8XetWw8u3fg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8XetWw8u3fg">WordPress Editing: A Collaborative Multiplayer Experience</a><br/>Jan 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=02bdagSUp0o"><img width="140px" src="https://i.ytimg.com/vi/02bdagSUp0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=02bdagSUp0o">EP33 - Our 2024 Predictions - Dev Branch</a><br/>Jan 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=L84POtiBtxY"><img width="140px" src="https://i.ytimg.com/vi/L84POtiBtxY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L84POtiBtxY">EP471 - Reflecting on the State of the Word 2023 - WPwatercooler</a><br/>Dec 16, 2023</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=a6wXhbpj5Mc">An alternative to Hello Dolly, Hello Donnie</a><br/>Dec 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=N8yHt8Tzy-I"><img width="140px" src="https://i.ytimg.com/vi/N8yHt8Tzy-I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N8yHt8Tzy-I">Jason Tucker doesn&#39;t like Jazz? But likes jazz riffs in hiphop.</a><br/>Dec 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8vEqPjLQI0M"><img width="140px" src="https://i.ytimg.com/vi/8vEqPjLQI0M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8vEqPjLQI0M">Are new devs looking at Hello Dolly to learn?</a><br/>Dec 5, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
