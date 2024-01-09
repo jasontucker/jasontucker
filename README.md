@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mQDShbSDvuk"><img width="140px" src="https://i.ytimg.com/vi/mQDShbSDvuk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=a_XtmDoEWCA"><img width="140px" src="https://i.ytimg.com/vi/a_XtmDoEWCA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=a_XtmDoEWCA">The Dreaded Process of Importing into WordPress: Command Line easy for some scary for others</a><br/>Jan 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mQDShbSDvuk"><img width="140px" src="https://i.ytimg.com/vi/mQDShbSDvuk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mQDShbSDvuk">Trying something other than WordPress - no more updates</a><br/>Jan 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Lp80mAPh3Ug"><img width="140px" src="https://i.ytimg.com/vi/Lp80mAPh3Ug/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lp80mAPh3Ug">Unraveling the Chaos of Role Management Plugins - future of role management in WordPress</a><br/>Jan 7, 2024</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=8XetWw8u3fg">WordPress Editing: A Collaborative Multiplayer Experience</a><br/>Jan 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=02bdagSUp0o"><img width="140px" src="https://i.ytimg.com/vi/02bdagSUp0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=02bdagSUp0o">EP33 - Our 2024 Predictions - Dev Branch</a><br/>Jan 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=L84POtiBtxY"><img width="140px" src="https://i.ytimg.com/vi/L84POtiBtxY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=L84POtiBtxY">EP471 - Reflecting on the State of the Word 2023 - WPwatercooler</a><br/>Dec 16, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
