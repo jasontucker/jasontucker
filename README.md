@@ -32,7 +32,7 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aNkXEsOZ3VI"><img width="140px" src="https://i.ytimg.com/vi/aNkXEsOZ3VI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aNkXEsOZ3VI">EP472 - Does your WordPress Website Have an Expiration Date? - WPwatercooler</a><br/>Jan 12, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=aNkXEsOZ3VI">EP472 - Does your WordPress Website Have an Expiration Date? - WPwatercooler</a><br/>Jan 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=a_XtmDoEWCA"><img width="140px" src="https://i.ytimg.com/vi/a_XtmDoEWCA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a_XtmDoEWCA">The Dreaded Process of Importing into WordPress: Command Line easy for some scary for others</a><br/>Jan 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mQDShbSDvuk"><img width="140px" src="https://i.ytimg.com/vi/mQDShbSDvuk/mqdefault.jpg"></a></td>
