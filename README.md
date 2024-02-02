@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yZEM5L-RDjE"><img width="140px" src="https://i.ytimg.com/vi/yZEM5L-RDjE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0LGdRTvTPAY"><img width="140px" src="https://i.ytimg.com/vi/0LGdRTvTPAY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0LGdRTvTPAY">EP34 - Zip It: How Devs Gatekeep the Internet - Dev Branch</a><br/>Feb 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yZEM5L-RDjE"><img width="140px" src="https://i.ytimg.com/vi/yZEM5L-RDjE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yZEM5L-RDjE">EP474 - Building Custom WordPress Blocks Because You Have To - WPwatercooler</a><br/>Jan 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2RpMLHZ7ai4"><img width="140px" src="https://i.ytimg.com/vi/2RpMLHZ7ai4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2RpMLHZ7ai4">EP473 - Write It Down Blogging for Fun and Making Friends  - WPwatercooler</a><br/>Jan 20, 2024</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=aNkXEsOZ3VI">EP472 - Does your WordPress Website Have an Expiration Date? - WPwatercooler</a><br/>Jan 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=a_XtmDoEWCA"><img width="140px" src="https://i.ytimg.com/vi/a_XtmDoEWCA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a_XtmDoEWCA">The Dreaded Process of Importing into WordPress: Command Line easy for some scary for others</a><br/>Jan 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mQDShbSDvuk"><img width="140px" src="https://i.ytimg.com/vi/mQDShbSDvuk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mQDShbSDvuk">Trying something other than WordPress - no more updates</a><br/>Jan 8, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
