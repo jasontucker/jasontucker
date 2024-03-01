@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fjcyRUqh_mo"><img width="140px" src="https://i.ytimg.com/vi/fjcyRUqh_mo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nulEQN9w2KA"><img width="140px" src="https://i.ytimg.com/vi/nulEQN9w2KA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nulEQN9w2KA">EP35 - GPTs Gone Wild  - Dev Branch</a><br/>Mar 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fjcyRUqh_mo"><img width="140px" src="https://i.ytimg.com/vi/fjcyRUqh_mo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fjcyRUqh_mo">EP476 - Free as in Piracy - WPwatercooler</a><br/>Feb 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dOdBtLemwiY"><img width="140px" src="https://i.ytimg.com/vi/dOdBtLemwiY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dOdBtLemwiY">EP475 - The Great Escape: WordPress Data Liberation Project - WPwatercooler</a><br/>Feb 10, 2024</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=0LGdRTvTPAY">EP34 - Zip It: How Devs Gatekeep the Internet - Dev Branch</a><br/>Feb 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yZEM5L-RDjE"><img width="140px" src="https://i.ytimg.com/vi/yZEM5L-RDjE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yZEM5L-RDjE">EP474 - Building Custom WordPress Blocks Because You Have To - WPwatercooler</a><br/>Jan 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2RpMLHZ7ai4"><img width="140px" src="https://i.ytimg.com/vi/2RpMLHZ7ai4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2RpMLHZ7ai4">EP473 - Write It Down Blogging for Fun and Making Friends  - WPwatercooler</a><br/>Jan 20, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
