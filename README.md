@@ -31,7 +31,9 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 
 ### 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jNU0DPLGxVE"><img width="140px" src="https://i.ytimg.com/vi/jNU0DPLGxVE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Iwa85F7qsx4"><img width="140px" src="https://i.ytimg.com/vi/Iwa85F7qsx4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Iwa85F7qsx4">EP478 - 6.5: It’s Alive! &lpar;Almost&rpar; - WPwatercooler</a><br/>Mar 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jNU0DPLGxVE"><img width="140px" src="https://i.ytimg.com/vi/jNU0DPLGxVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jNU0DPLGxVE">EP477 - WordPress: What’s The Alternative - WPwatercooler</a><br/>Mar 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nulEQN9w2KA"><img width="140px" src="https://i.ytimg.com/vi/nulEQN9w2KA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nulEQN9w2KA">EP35 - GPTs Gone Wild  - Dev Branch</a><br/>Mar 2, 2024</td></tr></table>
@@ -39,8 +41,6 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <td><a href="https://www.youtube.com/watch?v=fjcyRUqh_mo">EP476 - Free as in Piracy - WPwatercooler</a><br/>Feb 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dOdBtLemwiY"><img width="140px" src="https://i.ytimg.com/vi/dOdBtLemwiY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dOdBtLemwiY">EP475 - The Great Escape: WordPress Data Liberation Project - WPwatercooler</a><br/>Feb 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0LGdRTvTPAY"><img width="140px" src="https://i.ytimg.com/vi/0LGdRTvTPAY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0LGdRTvTPAY">EP34 - Zip It: How Devs Gatekeep the Internet - Dev Branch</a><br/>Feb 3, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
