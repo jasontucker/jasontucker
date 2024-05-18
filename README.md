@@ -32,7 +32,7 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PT1Ty7kOLXw"><img width="140px" src="https://i.ytimg.com/vi/PT1Ty7kOLXw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PT1Ty7kOLXw">EP483 - This Is Your Website on AI - WPwatercooler</a><br/>May 8, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=PT1Ty7kOLXw">EP483 - This Is Your Website on AI - WPwatercooler</a><br/>May 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fazc_sSo01g"><img width="140px" src="https://i.ytimg.com/vi/fazc_sSo01g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fazc_sSo01g">EP482 - Gutenberg It’s Complicated - WPwatercooler</a><br/>Apr 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QLFjbuz2PdU"><img width="140px" src="https://i.ytimg.com/vi/QLFjbuz2PdU/mqdefault.jpg"></a></td>
