@@ -18,6 +18,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 20
-          feed_list: "https://jasontucker.blog/rss/,https://wpwatercooler.com/feed/"
-          feed_names: "Jason Tucker,WPwatercooler Show"
+          feed_list: "https://jasontucker.blog/rss/,https://createdimperfectly.com"
+          feed_names: "Jason Tucker,Created Imperfectly"
           template: "<li>$randomEmoji(💯,🔥,💫,🚀,🌮) <a href='$url'>$title</a> - <em>$feedName</em></li>"
