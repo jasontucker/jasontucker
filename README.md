@@ -12,8 +12,8 @@
   <a href="https://youtube.com/wpwatercooler">
     <img src="https://img.shields.io/youtube/channel/views/UCJwt6pUOwhJgmcJ9j-uS5Jw?label=YouTube&logo=YOUTUBE&style=for-the-badge" alt="YouTube Bage">
   </a>
-  <a href="https://twitter.com/jasontucker">
-    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://bsky.app/profile/jasontucker.blog">
+<img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/jasontucker.blog">
   </a>
 </div>
 
