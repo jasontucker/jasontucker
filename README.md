@@ -1,6 +1,6 @@
 # Hi, I'm Jason Tucker
 
-#### I'm a long time WordPress user, Podcaster, and YouTuber!
+#### I build fun things to amuse myself.
 
 <div id="badges">
   <a href="https://simian.rodeo/@jasontucker">
@@ -18,9 +18,8 @@
 </div>
 
 
-Weekly I stream videos live on my [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler) we air Fridays at 11am Pacific.
+I formerly ran [YouTube Channel: WPwatercooler](https://youtube.com/wpwatercooler) a weekly video podcast about WordPress.
 
-I also stream and record videos of my kid playing water polo [YouTube Channel: abstrakONE](https://youtube.com/abstrakone)
 
 
 
@@ -28,6 +27,14 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <br />
 
 ---
+
+### 📑 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START --><li>🚀 <a href='https://jasontucker.blog/explo-self-hosted-discover-weekly-for-your-music-library/'>Explo: Self-Hosted Discover Weekly for Your Music Library</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/teaching-an-old-fan-new-tricks/'>Teaching an old fan new tricks</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/seeing-games-as-they-were-meant-to-be-seen-my-graphics-card-upgrade-journey/'>Seeing Games as They Were Meant to Be Seen: My Graphics Card Upgrade Journey</a> - <em>Jason Tucker</em></li><li>🔥 <a href='https://jasontucker.blog/optimizing-bios-settings-for-my-new-amd-rx-9070-xt-gpu-upgrade/'>Optimizing BIOS Settings for My New AMD RX 9070 XT GPU Upgrade</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/fixing-a-corrupted-plex-database-unraid-docker-or-bare-metal/'>Fixing a Corrupted Plex Database &lpar;Unraid, Docker, or Bare Metal&rpar;</a> - <em>Jason Tucker</em></li><li>💯 <a href='https://jasontucker.blog/build-a-wikidocs-snapshot-of-an-unraid-server-dynamically/'>Build a WikiDocs snapshot of an Unraid server dynamically</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/stupid-plex/'>Stupid Plex</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/the-hot-tub/'>The Hot Tub</a> - <em>Jason Tucker</em></li><li>💯 <a href='https://jasontucker.blog/homelab-dell-emc-poweredge-t430/'>Homelab - Dell EMC Poweredge T430</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/getting-beszel-agent-to-monitor-gpu-usage-when-using-docker/'>Getting Beszel agent to monitor GPU usage when using Docker</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/free-cybersecurity-courses/'>Free Cybersecurity Courses</a> - <em>Jason Tucker</em></li><li>🔥 <a href='https://jasontucker.blog/unraid-dispatcharr-nvidia-quadro-video-card-hardware-transcoding/'>Unraid + Dispatcharr + Nvidia Quadro Video Card = Hardware Transcoding</a> - <em>Jason Tucker</em></li><li>💯 <a href='https://jasontucker.blog/putting-eyes-on-the-back-of-your-unifi-g5-ptz-using-home-assistant/'>Putting eyes on the back of your Unifi G5 PTZ using Home Assistant</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/adding-a-tour-or-patrol-mode-to-unifi-g5-ptz-using-home-assistant/'>Adding a tour or patrol mode to Unifi G5 PTZ using Home Assistant</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/making-unraid-usable-on-mobile/'>Making Unraid usable on mobile</a> - <em>Jason Tucker</em></li><li>🌮 <a href='https://www.wpwatercooler.com/2024/08/20/almost-12-years-of-wordpress-podcasting/'>Almost 12 years of WordPress Podcasting</a> - <em>WPwatercooler Show</em></li><li>🚀 <a href='https://www.wpwatercooler.com/2023/09/22/a-call-for-accountability-sharing-my-wordpress-code-of-conduct-report/'>A Call for Accountability: Sharing My WordPress Code of Conduct Report</a> - <em>WPwatercooler Show</em></li><li>🚀 <a href='https://www.wpwatercooler.com/2022/06/18/teaching-an-old-blog-new-tricks/'>Teaching an old blog new tricks</a> - <em>WPwatercooler Show</em></li><li>🌮 <a href='https://www.wpwatercooler.com/2021/09/22/podcasting-about-wordpress-what-i-learned-in-9-years/'>Podcasting about WordPress, what I learned in 9 years</a> - <em>WPwatercooler Show</em></li><li>💯 <a href='https://www.wpwatercooler.com/2021/05/04/join-our-discord-and-chat-with-the-wpwatercooler-community/'>Join our Discord and chat with the WPwatercooler Community</a> - <em>WPwatercooler Show</em></li><!-- BLOG-POST-LIST:END -->
+
+
+---
+
 
 ### 🎥 Latest YouTube Videos
 
@@ -49,15 +56,5 @@ I also stream and record videos of my kid playing water polo [YouTube Channel: a
 <br />
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@wpwatercooler-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/wpwatercooler?sub_confirmation=1) 
-
-
-
-
----
-
-### 📑 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START --><li>🚀 <a href='https://jasontucker.blog/explo-self-hosted-discover-weekly-for-your-music-library/'>Explo: Self-Hosted Discover Weekly for Your Music Library</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/teaching-an-old-fan-new-tricks/'>Teaching an old fan new tricks</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/seeing-games-as-they-were-meant-to-be-seen-my-graphics-card-upgrade-journey/'>Seeing Games as They Were Meant to Be Seen: My Graphics Card Upgrade Journey</a> - <em>Jason Tucker</em></li><li>🔥 <a href='https://jasontucker.blog/optimizing-bios-settings-for-my-new-amd-rx-9070-xt-gpu-upgrade/'>Optimizing BIOS Settings for My New AMD RX 9070 XT GPU Upgrade</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/fixing-a-corrupted-plex-database-unraid-docker-or-bare-metal/'>Fixing a Corrupted Plex Database &lpar;Unraid, Docker, or Bare Metal&rpar;</a> - <em>Jason Tucker</em></li><li>💯 <a href='https://jasontucker.blog/build-a-wikidocs-snapshot-of-an-unraid-server-dynamically/'>Build a WikiDocs snapshot of an Unraid server dynamically</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/stupid-plex/'>Stupid Plex</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/the-hot-tub/'>The Hot Tub</a> - <em>Jason Tucker</em></li><li>💯 <a href='https://jasontucker.blog/homelab-dell-emc-poweredge-t430/'>Homelab - Dell EMC Poweredge T430</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/getting-beszel-agent-to-monitor-gpu-usage-when-using-docker/'>Getting Beszel agent to monitor GPU usage when using Docker</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/free-cybersecurity-courses/'>Free Cybersecurity Courses</a> - <em>Jason Tucker</em></li><li>🔥 <a href='https://jasontucker.blog/unraid-dispatcharr-nvidia-quadro-video-card-hardware-transcoding/'>Unraid + Dispatcharr + Nvidia Quadro Video Card = Hardware Transcoding</a> - <em>Jason Tucker</em></li><li>💯 <a href='https://jasontucker.blog/putting-eyes-on-the-back-of-your-unifi-g5-ptz-using-home-assistant/'>Putting eyes on the back of your Unifi G5 PTZ using Home Assistant</a> - <em>Jason Tucker</em></li><li>🚀 <a href='https://jasontucker.blog/adding-a-tour-or-patrol-mode-to-unifi-g5-ptz-using-home-assistant/'>Adding a tour or patrol mode to Unifi G5 PTZ using Home Assistant</a> - <em>Jason Tucker</em></li><li>💫 <a href='https://jasontucker.blog/making-unraid-usable-on-mobile/'>Making Unraid usable on mobile</a> - <em>Jason Tucker</em></li><li>🌮 <a href='https://www.wpwatercooler.com/2024/08/20/almost-12-years-of-wordpress-podcasting/'>Almost 12 years of WordPress Podcasting</a> - <em>WPwatercooler Show</em></li><li>🚀 <a href='https://www.wpwatercooler.com/2023/09/22/a-call-for-accountability-sharing-my-wordpress-code-of-conduct-report/'>A Call for Accountability: Sharing My WordPress Code of Conduct Report</a> - <em>WPwatercooler Show</em></li><li>🚀 <a href='https://www.wpwatercooler.com/2022/06/18/teaching-an-old-blog-new-tricks/'>Teaching an old blog new tricks</a> - <em>WPwatercooler Show</em></li><li>🌮 <a href='https://www.wpwatercooler.com/2021/09/22/podcasting-about-wordpress-what-i-learned-in-9-years/'>Podcasting about WordPress, what I learned in 9 years</a> - <em>WPwatercooler Show</em></li><li>💯 <a href='https://www.wpwatercooler.com/2021/05/04/join-our-discord-and-chat-with-the-wpwatercooler-community/'>Join our Discord and chat with the WPwatercooler Community</a> - <em>WPwatercooler Show</em></li><!-- BLOG-POST-LIST:END -->
-
 
 ---
